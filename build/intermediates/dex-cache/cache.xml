@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\vargo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_72f18f06dca152f20b886ac5d48ca784a191c5d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Java\SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_8f1f4c1b113d864a1df493073689c602dc3f42ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_d9bff7abe8283dcdb26cdc5152231cb4abc929ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vargo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_6da7b2690d8914ed1980a14d046f6c50a750e4be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vargo\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.3_42f46c430342357ff04aed5125574e1d9e70d6c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e39dd45427d2ba136c82ed1946f80dd3dff16695">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-1.2.6_f3f6dea690f9d1e2159474df363581da975b1c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.jcodecraeer\xrecyclerview\1.2.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0724e4d93c85866c8953b74776fa320efa122205">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jcodecraeer-xrecyclerview-1.2.7_0c795538c0834dd32491ffdc50c561cb46253d59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fb47920b85a1d2f6498d982d359000e2a6d2ecec">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e346a6977d5223d093c6b5089b754ed09dccc893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_21deb5491559e633a535c75470d225da178e3bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SoftWare\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_2a4b965fe5a9082a7412cf1c7d8c5d4db9d5bb0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="877dd2c33518a0be9e78373bef78cd5891669b7a">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f3fb0b8c56d1447fbe3f6182f4a432df3c94693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1fe123fc11c4b828d0f2d37b8b9d040a8c2b0cf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_ca6ee6851232d0d41e24fa136edb384a04d5b233\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.mani\ThinDownloadManager\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="096d46fed1f5b5320c5f76fca225fb899ff8843a">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mani-ThinDownloadManager-1.2.4_9f92071db3bf83d7dd51bd7564dee1ada005d965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_681924e6b39c316ddd367b6db074a7ed1b862823\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa6f74194806099bd3ea8e9ce3d9be4aa7d67e1c">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.zhy-okhttputils-2.4.1_00053a8d546f95f4d30a704fded1c9d7d0be3015\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_25e70d185fcac16f903cf5568f8f6490f5ddad91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vargo\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c21d5cb03a42022a0a8508df047be50d1f0ead67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\MaterialDesignDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Android\MaterialDesignDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_4b2cebd6f7e0ab035ec66dbbe1d23ff203347c69\classes.dex" />
+    </item>
+
+</items>
